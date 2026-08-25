@@ -33,9 +33,6 @@ Responsive calculator built with JavaScript.
 ⏰ **Time Watch**
 Simple real-time digital watch.
 
-## 📊 GitHub Stats
-
-![Emaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaanmasood\&show_icons=true\&theme=tokyonight)
 
 ## 📫 Let's Connect
 
