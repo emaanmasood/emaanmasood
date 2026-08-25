@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Emaan Masood
 
-<!--
-**emaanmasood/emaanmasood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Web Developer | React Developer
 
-Here are some ideas to get you started:
+I'm a passionate web developer focused on building modern, responsive, and user-friendly websites. I enjoy turning ideas into clean and functional web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+
+* 🔭 Building modern web projects
+* 🌱 Learning React and Backend Development
+* 💡 Improving my UI/UX and frontend skills
+* 🎯 Creating responsive and user-friendly websites
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+HTML5 • CSS3 • JavaScript • React • Tailwind CSS
+
+**Backend & Tools:**
+APIs • Git • GitHub • Vercel
+
+## 🌟 Featured Projects
+
+🎬 **Personal Movie Searcher**
+Movie search application with search and favorite functionality.
+
+🌦️ **Weather App**
+Responsive weather application using an API.
+
+📝 **Todo List**
+Interactive task management application.
+
+🧮 **Calculator**
+Responsive calculator built with JavaScript.
+
+⏰ **Time Watch**
+Simple real-time digital watch.
+
+## 📊 GitHub Stats
+
+![Emaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaanmasood\&show_icons=true\&theme=tokyonight)
+
+## 📫 Let's Connect
+
+🌐 **Portfolio:** Coming Soon
+💼 **LinkedIn:** Coming Soon
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together! 🚀**
