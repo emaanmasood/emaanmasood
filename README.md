@@ -21,9 +21,6 @@ APIs • Git • GitHub • Vercel
 
 ## 🌟 Featured Projects
 
-🎬 **Personal Movie Searcher**
-Movie search application with search and favorite functionality.
-
 🌦️ **Weather App**
 Responsive weather application using an API.
 
